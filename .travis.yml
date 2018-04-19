@@ -1,0 +1,4 @@
+language:C
+install:make get-deps
+script:scons
+sudo:enabled
